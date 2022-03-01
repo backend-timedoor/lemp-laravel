@@ -28,12 +28,12 @@ Creat screen session
 Use quick bash installer with default settings:
 
 ```bash
-  $ curl https://raw.githubusercontent.com/yasapurnama/lemp-laravel/master/lemp-laravel.sh | bash
+  $ curl https://raw.githubusercontent.com/backend-timedoor/lemp-laravel/master/lemp-laravel.sh | bash
 ```
 
 ### Manual Install with Custom Variables
 ```bash
-  $ wget curl https://raw.githubusercontent.com/yasapurnama/lemp-laravel/master/lemp-laravel.sh
+  $ wget curl https://raw.githubusercontent.com/backend-timedoor/lemp-laravel/master/lemp-laravel.sh
   $ vim lemp-laravel.sh
 ```
 
