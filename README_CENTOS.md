@@ -1,7 +1,7 @@
 # LEMP Server Installer for Laravel 
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/yasapurnama/lemp-laravel)
-![GitHub all releases](https://img.shields.io/github/downloads/yasapurnama/lemp-laravel/total)
-[![GitHub license](https://img.shields.io/github/license/yasapurnama/lemp-laravel)](https://github.com/yasapurnama/lemp-laravel/blob/master/LICENSE)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/backend-timedoor/lemp-laravel)
+![GitHub all releases](https://img.shields.io/github/downloads/backend-timedoor/lemp-laravel/total)
+[![GitHub license](https://img.shields.io/github/license/backend-timedoor/lemp-laravel)](https://github.com/backend-timedoor/lemp-laravel/blob/master/LICENSE)
 
 LEMP Laravel is automation bash script to install LEMP Stack (Linux, Nginx, MySQL and PHP). 
 The script also install essential services that required by Laravel like redis cache and supervisord. 
@@ -30,12 +30,12 @@ Create screen session
 Use quick bash installer with default settings:
 
 ```bash
-  $ curl https://raw.githubusercontent.com/yasapurnama/lemp-laravel/master/lemp-laravel-centos.sh | bash
+  $ curl https://raw.githubusercontent.com/backend-timedoor/lemp-laravel/master/lemp-laravel-centos.sh | bash
 ```
 
 ### Manual Install with Custom Variables (Option 2)
 ```bash
-  $ wget https://raw.githubusercontent.com/yasapurnama/lemp-laravel/master/lemp-laravel-centos.sh
+  $ wget https://raw.githubusercontent.com/backend-timedoor/lemp-laravel/master/lemp-laravel-centos.sh
   $ vim lemp-laravel-centos.sh
 ```
 
